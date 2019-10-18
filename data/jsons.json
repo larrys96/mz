@@ -1,0 +1,1035 @@
+
+{
+	
+	"imgs":[
+				{
+					"imgsrc":"./data/img/lb1.jpg"
+				},
+				{
+					"imgsrc":"./data/img/lb2.jpg"
+				},
+				{
+					"imgsrc":"./data/img/lb3.jpg"
+				}
+			],
+	"uls":[
+				{
+					"txt":"魅族官方直供",
+					"imgsrc":"./data/img/log1.png"
+										
+				},
+				{
+					"txt":"满80免运费",
+					"imgsrc":"./data/img/log2.png"
+				},
+				{
+					"txt":"7天无理由退换",
+					"imgsrc":"./data/img/log3.png"
+				}
+	],
+	"lis":[
+				{
+					"imgsrc":"./data/img/lis1.png",
+					"txt":"魅族 16s Pro"
+				},
+				{
+					"imgsrc":"./data/img/lis2.png",
+					"txt":"魅族 16s"
+				},
+				{
+					"imgsrc":"./data/img/lis3.png",
+					"txt":"魅族 Note9"
+				},
+				{
+					"imgsrc":"./data/img/lis4.png",
+					"txt":"以旧换新"
+				}
+
+	],
+	"shops":[
+				{
+					"imgsrc":"./data/img/shop1.jpg",
+					"id":"1"
+				},
+				{
+					"imgsrc":"./data/img/shop2.jpg"
+				},
+				{
+					"imgsrc":"./data/img/shop3.jpg"
+				}
+	],
+	"show":[
+		{
+			"imgsrc":"./data/img/shop4.jpg"
+		},
+		{
+			"list":[
+						{
+							"imgsrc":"./data/img/shop5.png",
+							"txt":"魅族 16s Pro",
+							"logo":"新品",
+							"title":"⾼通骁⻰ 855 Plus  | 索尼 4800W 像素超广角 AI 三摄 ",
+							"price":"2699"
+						},
+						{
+							"imgsrc":"./data/img/shop6.png",
+							"txt":"魅族 16Xs",
+							"logo":"免息",
+							"title":"4800W AI三摄 屏幕下指纹",
+							"price":"1499"
+						},
+						{
+							"imgsrc":"./data/img/shop7.png",
+							"txt":"魅族 16s",
+							"logo":"领卷",
+							"title":"骁龙855 4800W光学防抖 ",
+							"price":"2699"
+						},
+						{
+							"imgsrc":"./data/img/shop8.png",
+							"txt":"魅族 16th",
+							"logo":"领卷",
+							"title":"骁龙855 4800W光学防抖 ",
+							"price":"2298"
+						},
+						{
+							"imgsrc":"./data/img/shop9.png",
+							"txt":"魅族 Note9",
+							"logo":"领卷",
+							"title":"骁龙675 | 后置4800万 | 前置2000万 | 独家定制水滴设计全面屏 | 4000mAh大容量电池 | 18W mCharge快充 | 吃鸡不卡 拍她更美 ",
+							"price":"1199"
+						},
+						{
+							"imgsrc":"./data/img/shop10.png",
+							"txt":"魅族 16th Plus",
+							"logo":"领卷",
+							"title":"骁龙845  屏幕下指纹 ",
+							"price":"2698"
+						},
+						{
+							"imgsrc":"./data/img/shop11.png",
+							"txt":"魅族 16 X",
+							"logo":"领卷",
+							"title":"骁龙710 屏幕下指纹",
+							"price":"1598"
+						},
+						{
+							"imgsrc":"./data/img/shop12.png",
+							"txt":"魅族 E3",
+							"logo":"领卷",
+							"title":"骁龙636处理器 全系6G大运存 ",
+							"price":"1799"
+						}
+			]
+		}
+	],
+
+
+
+
+	"sell":[
+		{
+		"mzsx":[
+			{
+				"title":"魅族声学",
+				"tt":[
+				{
+				"imgsrc":"./data/img/mzsx1.png",
+				"title":"MEIZU UR 高端定制耳机 预约",
+				"txt":"【预约专用】私人定制，为你而声",
+				"price":"200"
+			},
+			{
+				"imgsrc":"./data/img/mzsx2.png",
+				"title":"魅族 EP3C 耳机",
+				"txt":"Hi-Res 认证高解析音质 | 高保真生物纤维振膜",
+				"price":"129"
+			}
+
+				],
+				"earphone":[
+					{
+						"imgsrc":"./data/img/mzsx3.png",
+						"title":"魅族 HiFi 解码耳放 PRO",
+						"logo":"新品",
+						"txt":"高性能DAC芯片 | 超强二级运放 | Hi-Res 认证高解析音质 | 高阻抗推力 ",
+						"price":"269"
+						
+					},
+					{
+						"imgsrc":"./data/img/mzsx4.png",
+						"title":"魅族 POP2 真无线蓝牙耳机",
+						"logo":"热卖",
+						"txt":"【限时3期免息】蓝牙5.0 超长续航 ",
+						"price":"399"
+						
+					},
+					{
+						"imgsrc":"./data/img/mzsx5.png",
+						"title":"魅族 HIFI 解码耳放",
+						"logo":"热卖",
+						"txt":"小身材 大能量",
+						"price":"169"
+						
+					},
+					{
+						"imgsrc":"./data/img/mzsx6.png",
+						"title":"魅族 EP2X 耳机",
+						"logo":"特惠",
+						"txt":"契合声音的流动之美 ",
+						"price":"129"
+						
+					},
+					{
+						"imgsrc":"./data/img/mzsx7.png",
+						"title":"魅族 EP2C 耳机",
+						"logo":"",
+						"txt":"钕铁硼单元 Type-C接口 ",
+						"price":"129"
+						
+					},
+					{
+						"imgsrc":"./data/img/mzsx8.png",
+						"title":"魅族蓝牙音频接收器",
+						"logo":"",
+						"txt":"独立音频芯片音质媲美有线 ",
+						"price":"89"
+						
+					},
+					{
+						"imgsrc":"./data/img/mzsx9.png",
+						"title":"魅族 EP21-HD耳机",
+						"logo":"",
+						"txt":"小巧圆润 TPE线材 ",
+						"price":"99"
+						
+					},
+					{
+						"imgsrc":"./data/img/mzsx10.png",
+						"title":"魅族 EP63NC 无线降噪耳机",
+						"logo":"热卖",
+						"txt":"智能降噪 声临其境 ",
+						"price":"499"
+						
+					},
+					{
+						"imgsrc":"./data/img/mzsx11.png",
+						"title":"魅族 HALO 激光蓝牙耳机",
+						"logo":"特惠",
+						"txt":"夜跑神器 随性张扬 ",
+						"price":"499"
+						
+					},
+					{
+						"imgsrc":"./data/img/mzsx12.png",
+						"title":"魅族 LIVE 四单元动铁耳机",
+						"logo":"特惠",
+						"txt":"Knowles四动铁 双通道导音系统 ",
+						"price":"1099"
+						
+					},
+					{
+						"imgsrc":"./data/img/mzsx13.png",
+						"title":"魅族 HiFi 解码耳放 PRO",
+						"logo":"新品",
+						"txt":"高性能DAC芯片 | 超强二级运放 | Hi-Res 认证高解析音质 | 高阻抗推力 ",
+						"price":"269"
+						
+					},
+					{
+						"imgsrc":"./data/img/mzsx14.png",
+						"title":"魅族 HiFi 解码耳放 PRO",
+						"logo":"新品",
+						"txt":"高性能DAC芯片 | 超强二级运放 | Hi-Res 认证高解析音质 | 高阻抗推力 ",
+						"price":"269"
+						
+					}
+					]
+			}
+			
+			
+		]
+	},
+	{
+		"mzsx":[
+			{
+				"title":"智能配件",
+				"tt":[
+				{
+				"imgsrc":"./data/img/parts1.png",
+				"title":"魅族移动电源3",
+				"txt":"双向快充双充电口 轻薄小巧",
+				"price":"79"
+			},
+			{
+				"imgsrc":"./data/img/parts2.png",
+				"title":"魅族无线充电器",
+				"txt":"10W快速充电 无线即放即充",
+				"price":"99"
+			}
+				],
+				"earphone":[
+					{
+						"imgsrc":"./data/img/parts3.png",
+						"title":"魅族 16s Pro 亲肤壳膜套装",
+						"logo":"",
+						"txt":"亲肤亲近，安全防护 ",
+						"price":"39"
+						
+					},
+					{
+						"imgsrc":"./data/img/parts4.png",
+						"title":"魅族 Micro USB 数据线",
+						"logo":"",
+						"txt":"广泛兼容 经久耐用 ",
+						"price":"29"
+						
+					},
+					{
+						"imgsrc":"./data/img/parts5.png",
+						"title":"魅族 Type-C 金属数据线",
+						"logo":"",
+						"txt":"支持2A快速充电 耐用又放心",
+						"price":"39"
+						
+					},
+					{
+						"imgsrc":"./data/img/parts6.png",
+						"title":"魅族 Micro USB 数据线",
+						"logo":"",
+						"txt":"广泛兼容 经久耐用 ",
+						"price":"29"
+						
+					},
+					{
+						"imgsrc":"./data/img/parts7.png",
+						"title":"快充电源适配器（UP0830S）",
+						"logo":"特惠",
+						"txt":"快速充电 安全无忧",
+						"price":"69"
+						
+					},
+					{
+						"imgsrc":"./data/img/parts8.png",
+						"title":"魅族 X8 高透保护膜",
+						"logo":"",
+						"txt":"高透光率 助双眼捕捉每一颗像素的色彩",
+						"price":"19"
+						
+					}
+					]
+			}
+			
+			
+		]
+	},
+	{
+		"mzsx":[
+			{
+				"title":"周边生活",
+				"tt":[
+				{
+				"imgsrc":"./data/img/live1.png",
+				"title":"MEIZU UR 高端定制耳机 预约",
+				"txt":"【预约专用】私人定制，为你而声",
+				"price":"200"
+			},
+			{
+				"imgsrc":"./data/img/live2.png",
+				"title":"魅族 EP3C 耳机",
+				"txt":"Hi-Res 认证高解析音质 | 高保真生物纤维振膜",
+				"price":"129"
+			}
+				],
+				"earphone":[
+					{
+						"imgsrc":"./data/img/live3.png",
+						"title":"魅族 HiFi 解码耳放 PRO",
+						"logo":"新品",
+						"txt":"高性能DAC芯片 | 超强二级运放 | Hi-Res 认证高解析音质 | 高阻抗推力 ",
+						"price":"269"
+						
+					},
+					{
+						"imgsrc":"./data/img/live4.png",
+						"title":"魅族 POP2 真无线蓝牙耳机",
+						"logo":"热卖",
+						"txt":"【限时3期免息】蓝牙5.0 超长续航 ",
+						"price":"399"
+						
+					},
+					{
+						"imgsrc":"./data/img/live5.png",
+						"title":"魅族 HIFI 解码耳放",
+						"logo":"热卖",
+						"txt":"小身材 大能量",
+						"price":"169"
+						
+					},
+					{
+						"imgsrc":"./data/img/live6.png",
+						"title":"魅族 EP2X 耳机",
+						"logo":"特惠",
+						"txt":"契合声音的流动之美 ",
+						"price":"269"
+						
+					},
+					{
+						"imgsrc":"./data/img/live7.png",
+						"title":"魅族 HiFi 解码耳放 PRO",
+						"logo":"新品",
+						"txt":"高性能DAC芯片 | 超强二级运放 | Hi-Res 认证高解析音质 | 高阻抗推力 ",
+						"price":"269"
+						
+					},
+					{
+						"imgsrc":"./data/img/live8.png",
+						"title":"魅族 HiFi 解码耳放 PRO",
+						"logo":"新品",
+						"txt":"高性能DAC芯片 | 超强二级运放 | Hi-Res 认证高解析音质 | 高阻抗推力 ",
+						"price":"269"
+						
+					}
+					]
+			}
+			
+			
+		]
+	}
+]
+,
+	"community":[
+			{
+				"imgsrc":"./data/img/sq1.jpg",
+				"imgsrc1":"./data/img/l1.jpg",
+				"name":"hooyeah",
+				"txt":"魅族 Note9 邀请函 JK 服妹子出镜，谁才是最美游戏姬？",
+				"title":"魅族 Note9"
+				
+				
+			},
+			{
+				"imgsrc":"./data/img/sq2.jpg",
+				"imgsrc1":"./data/img/l2.jpg",
+				"name":"xrx3p",
+				"txt":"摄影离不开适当的后期，好在如今你可以在魅族手机上轻松完成操作。",
+				"title":"摄影技巧"
+				
+				
+			},
+			{
+				"imgsrc":"./data/img/sq3.jpg",
+				"imgsrc1":"./data/img/l3.jpg",
+				"name":"小墨灰",
+				"txt":"工作和学习中的沟通总离不开邮件，而 Flyme 邮箱的出色体验为我们带来的不只是生产力。",
+				"title":"功能解析"
+				
+				
+			},
+			{
+				"imgsrc":"./data/img/sq4.jpg",
+				"imgsrc1":"./data/img/l4.jpg",
+				"name":"屌丝扮海绵",
+				"txt":"“窗含西岭千秋雪” 魅族 16th 用旗舰双摄带你领略诗句中的美景。",
+				"title":"魅族 16th"
+				
+				
+			},
+			{
+				"imgsrc":"./data/img/sq5.jpg",
+				"imgsrc1":"./data/img/l5.jpg",
+				"name":"Keicy520",
+				"txt":"妙用 Flyme 分身，做生活和工作的「两面派」。",
+				"title":"功能解析"
+				
+				
+			},
+			{
+				"imgsrc":"./data/img/sq6.jpg",
+				"imgsrc1":"./data/img/l6.jpg",
+				"name":"郑金龙",
+				"txt":"千元最强性能手机登场，高通骁龙 710 次旗舰级处理器加持，玩王者荣耀 Vulkan 模式请认准魅族 X8。",
+				"title":"魅族 x8"
+				
+				
+			}
+			
+	],
+	"fly":[
+		{
+			"imgsrc":"./data/img/f1.jpg",
+			"txt":"16 相机五大功能"
+		},
+		{
+			"imgsrc":"./data/img/f2.jpg",
+			"txt":"性能更出众"
+		},
+		{
+			"imgsrc":"./data/img/f3.png",
+			"txt":"Flyme 7 新春版"
+		},
+		{
+			"imgsrc":"./data/img/f4.jpg",
+			"txt":"解锁真的快"
+		},
+		{
+			"imgsrc":"./data/img/f5.jpg",
+			"txt":" 管理手机妙招"
+		},
+		{
+			"imgsrc":"./data/img/f6.jpg",
+			"txt":"全局夜间模式"
+		}
+	],
+	
+	"videos":[
+		{
+			"imgsrc":"./data/img/video1.jpg",
+			"txt":"魅族 16s Pro 手机：让热爱 更澎湃"
+			
+		},
+		{
+			"imgsrc":"./data/img/video2.jpg",
+			"txt":"POP2 真无线蓝牙耳机：时刻伴你左右"
+			
+		},
+		{
+			"imgsrc":"./data/img/video3.jpg",
+			"txt":"魅族 16Xs 手机：极边全面屏 三摄长续航"
+			
+		},
+		{
+			"imgsrc":"./data/img/video4.jpg",
+			"txt":"魅族 16s 旗舰手机：追求不止 只因热爱"
+			
+		},
+		{
+			"imgsrc":"./data/img/video5.jpg",
+			"txt":"Flyme 7"
+			
+		},
+		{
+			"imgsrc":"./data/img/video6.jpg",
+			"txt":"安全家庭"
+			
+		},
+		{
+			"imgsrc":"./data/img/video7.jpg",
+			"txt":" 魅族互娱 MGC 探险嘉年华"
+			
+		},
+		{
+			"imgsrc":"./data/img/video8.jpg",
+			"txt":"魅族 X8 游戏性能测试"
+			
+		}
+		],
+	"list":[
+				
+				{
+					"con":"手机",
+					"id":1,
+					"htl":[
+						{
+							"imgsrc":"./data/img/ban1.jpg"
+						},
+						{
+							"arrs":[
+								{
+									"imgsrc":"./data/img/liss1.jpg",
+									"title":"魅族 16s Pro",
+									"logo":"新品",
+									"txt":"【现货开售】高通骁龙 855 Plus  | 索尼 4800W 像素超广角 AI 三摄 | 极边全面屏 | Flyme8 尝鲜体验 | 极速屏下指纹 | 全功能NFC",
+									"price":"2699"
+								},
+								{
+									"imgsrc":"./data/img/liss2.jpg",
+									"title":"魅族 16 X",
+									"logo":"直降",
+									"txt":"【限时领券最高立减200】【限时3期免息】 高通骁龙855 | 4800W光学防抖 | 对称式AMOLED全面屏 | 极速屏下指纹 | 全功能NFC | 3600mAh大电池 | 7.6mm纤薄机身 | mEngine3.0",
+									"price":"2699"
+								},
+								{
+									"imgsrc":"./data/img/liss3.jpg",
+									"title":"魅族 16s Pro",
+									"logo":"新品",
+									"txt":"【限时领券最高立减300】【限时3期免息】骁龙710 | 屏幕下指纹 | 对称式全面屏 | 前置2000万像素 + AI人脸识别 | 后置索尼2000万像素双摄 + 光学防抖",
+									"price":"1598"
+								},
+								{
+									"imgsrc":"./data/img/liss4.jpg",
+									"title":"魅族 16Xs",
+									"logo":"新品",
+									"txt":"【限时3期免息】极边全面屏 | 4800W AI三摄 | 疾速屏下指纹 | 4000mAh大电池 | 高通骁龙675 | Onemind 3.0 | 绚丽多彩新色系",
+									"price":"1499"
+								},
+								{
+									"imgsrc":"./data/img/liss5.jpg",
+									"title":"魅族 16s Pro",
+									"logo":"新品",
+									"txt":"【现货开售】高通骁龙 855 Plus  | 索尼 4800W 像素超广角 AI 三摄 | 极边全面屏 | Flyme8 尝鲜体验 | 极速屏下指纹 | 全功能NFC",
+									"price":"2699"
+								},
+								{
+									"imgsrc":"./data/img/liss6.jpg",
+									"title":"魅族 16 X",
+									"logo":"直降",
+									"txt":"【限时领券最高立减200】【限时3期免息】 高通骁龙855 | 4800W光学防抖 | 对称式AMOLED全面屏 | 极速屏下指纹 | 全功能NFC | 3600mAh大电池 | 7.6mm纤薄机身 | mEngine3.0",
+									"price":"2699"
+								},
+								{
+									"imgsrc":"./data/img/liss7.jpg",
+									"title":"魅族 16s Pro",
+									"logo":"新品",
+									"txt":"【限时领券最高立减300】【限时3期免息】骁龙710 | 屏幕下指纹 | 对称式全面屏 | 前置2000万像素 + AI人脸识别 | 后置索尼2000万像素双摄 + 光学防抖",
+									"price":"1598"
+								},
+								{
+									"imgsrc":"./data/img/liss8.jpg",
+									"title":"魅族 16Xs",
+									"logo":"",
+									"txt":"【限时3期免息】极边全面屏 | 4800W AI三摄 | 疾速屏下指纹 | 4000mAh大电池 | 高通骁龙675 | Onemind 3.0 | 绚丽多彩新色系",
+									"price":"1499"
+								},
+								{
+									"imgsrc":"./data/img/liss9.jpg",
+									"title":"魅族 16s Pro",
+									"logo":"新品",
+									"txt":"【现货开售】高通骁龙 855 Plus  | 索尼 4800W 像素超广角 AI 三摄 | 极边全面屏 | Flyme8 尝鲜体验 | 极速屏下指纹 | 全功能NFC",
+									"price":"2699"
+								},
+								{
+									"imgsrc":"./data/img/liss10.jpg",
+									"title":"魅族 16 X",
+									"logo":"直降",
+									"txt":"【限时领券最高立减200】【限时3期免息】 高通骁龙855 | 4800W光学防抖 | 对称式AMOLED全面屏 | 极速屏下指纹 | 全功能NFC | 3600mAh大电池 | 7.6mm纤薄机身 | mEngine3.0",
+									"price":"2699"
+								},
+								{
+									"imgsrc":"./data/img/liss11.jpg",
+									"title":"魅族 16s Pro",
+									"logo":"新品",
+									"txt":"【限时领券最高立减300】【限时3期免息】骁龙710 | 屏幕下指纹 | 对称式全面屏 | 前置2000万像素 + AI人脸识别 | 后置索尼2000万像素双摄 + 光学防抖",
+									"price":"1598"
+								},
+								{
+									"imgsrc":"./data/img/liss12.jpg",
+									"title":"魅族 16Xs",
+									"logo":"",
+									"txt":"【限时3期免息】极边全面屏 | 4800W AI三摄 | 疾速屏下指纹 | 4000mAh大电池 | 高通骁龙675 | Onemind 3.0 | 绚丽多彩新色系",
+									"price":"1499"
+								},
+								{
+									"imgsrc":"./data/img/liss13.jpg",
+									"title":"魅族 16s Pro",
+									"logo":"",
+									"txt":"【现货开售】高通骁龙 855 Plus  | 索尼 4800W 像素超广角 AI 三摄 | 极边全面屏 | Flyme8 尝鲜体验 | 极速屏下指纹 | 全功能NFC",
+									"price":"2699"
+								},
+								{
+									"imgsrc":"./data/img/liss14.jpg",
+									"title":"魅族 16 X",
+									"logo":"直降",
+									"txt":"【限时领券最高立减200】【限时3期免息】 高通骁龙855 | 4800W光学防抖 | 对称式AMOLED全面屏 | 极速屏下指纹 | 全功能NFC | 3600mAh大电池 | 7.6mm纤薄机身 | mEngine3.0",
+									"price":"2699"
+								},
+								{
+									"imgsrc":"./data/img/liss15.jpg",
+									"title":"魅族 16s Pro",
+									"logo":"新品",
+									"txt":"【限时领券最高立减300】【限时3期免息】骁龙710 | 屏幕下指纹 | 对称式全面屏 | 前置2000万像素 + AI人脸识别 | 后置索尼2000万像素双摄 + 光学防抖",
+									"price":"1598"
+								},
+								{
+									"imgsrc":"./data/img/liss15.jpg",
+									"title":"魅族 16Xs",
+									"logo":"新品",
+									"txt":"【限时3期免息】极边全面屏 | 4800W AI三摄 | 疾速屏下指纹 | 4000mAh大电池 | 高通骁龙675 | Onemind 3.0 | 绚丽多彩新色系",
+									"price":"1499"
+								}
+							]
+						},
+						{
+							"imgsrc":"./data/img/foo1.jpg"
+						}
+						
+					
+					]
+					
+				},
+				{
+					"con":"声学",
+					"id":2,
+						"htl":[
+						{
+							"imgsrc":"./data/img/ban2.jpg"
+						},
+						{
+							"arrs":[
+								{
+									"imgsrc":"./data/img/lisc1.jpg",
+									"title":"MEIZU UR 高端定制耳机   预约",
+									"logo":"新品",
+									"txt":"【预约专用】私人定制，为你而声",
+									"price":"2699"
+								},
+								{
+									"imgsrc":"./data/img/lisc2.jpg",
+									"title":"魅族 EP3C 耳机",
+									"logo":"直降",
+									"txt":"Hi-Res 认证高解析音质 | 高保真生物纤维振膜",
+									"price":"2699"
+								},
+								{
+									"imgsrc":"./data/img/lisc3.jpg",
+									"title":"魅族 HiFi 解码耳放 PRO",
+									"logo":"新品",
+									"txt":"【9.30 上午10点 现货开售】性能DAC芯片 | 超强二级运放 | Hi-Res 认证高解析音质 | 高阻抗推力 ",
+									"price":"269"
+								},
+								{
+									"imgsrc":"./data/img/lisc4.jpg",
+									"title":"魅族 EP3C 耳机",
+									"logo":"特惠",
+									"txt":"Hi-Res 认证高解析音质 | 高保真生物纤维振膜",
+									"price":"369"
+								},
+								{
+									"imgsrc":"./data/img/lisc5.jpg",
+									"title":"魅族 EP2C 耳机",
+									"logo":"",
+									"txt":"钕铁硼单元 Type-C接口",
+									"price":"99"
+								},
+								{
+									"imgsrc":"./data/img/lisc6.jpg",
+									"title":"魅族 HIFI 解放耳放",
+									"logo":"直降",
+									"txt":"【9.30 上午10点 现货开售】高性能DAC芯片",
+									"price":"169"
+								},
+								{
+									"imgsrc":"./data/img/lisc7.jpg",
+									"title":"魅族 EP63NC 无线降噪耳机",
+									"logo":"",
+									"txt":"【限时3期免息】智能降噪 声临其境",
+									"price":"119"
+								},
+								{
+									"imgsrc":"./data/img/lisc8.jpg",
+									"title":"魅族 EP2X 耳机",
+									"logo":"",
+									"txt":"【限时特惠】契合声音的流动之美",
+									"price":"89"
+								},
+								{
+									"imgsrc":"./data/img/lisc9.jpg",
+									"title":"魅蓝 EP52 蓝牙耳机",
+									"logo":"",
+									"txt":"【限时特惠】轻盈悦耳 动无拘束",
+									"price":"299"
+								},
+								{
+									"imgsrc":"./data/img/lisc10.jpg",
+									"title":"魅族 HALO 激光蓝牙耳机",
+									"logo":"",
+									"txt":"【限时特惠】夜跑神器 随性张扬",
+									"price":"449"
+								},
+								{
+									"imgsrc":"./data/img/lisc11.jpg",
+									"title":"魅族 LIVE 四单元动铁耳机",
+									"logo":"",
+									"txt":"【限时特惠】Knowles四动铁 双通道导音系统",
+									"price":"1099"
+								},
+								{
+									"imgsrc":"./data/img/lisc12.jpg",
+									"title":"魅族 EP21耳机",
+									"logo":"",
+									"txt":"【限时特惠】悦耳 声形俱佳",
+									"price":"89"
+								},
+								{
+									"imgsrc":"./data/img/lisc13.jpg",
+									"title":"魅族 EP21-HD耳机",
+									"logo":"",
+									"txt":"小巧圆润 TPE线材",
+									"price":"39"
+								},
+								{
+									"imgsrc":"./data/img/lisc14.jpg",
+									"title":"魅族 Gravity 悬浮音响",
+									"logo":"",
+									"txt":"魅族声学15年集大成之作",
+									"price":"2699"
+								},
+								{
+									"imgsrc":"./data/img/lisc15.jpg",
+									"title":"魅族 Flow 三单元耳机",
+									"logo":"新品",
+									"txt":"【限时特惠】用得惬意 听得尽兴",
+									"price":"349 "
+								}
+							]
+						},
+						{
+							"imgsrc":"./data/img/foo1.jpg"
+						}
+					
+					]
+				},
+				{
+					"con":"配件",
+					"id":3,
+					"htl":[
+						{
+							"imgsrc":"./data/img/j1.jpg"
+						},
+						{
+							"arrs":[
+								{
+									"imgsrc":"./data/img/k1.jpg",
+									"title":"魅族 16s Pro 亲肤壳膜套装",
+									"logo":"",
+									"txt":"亲近肌肤，安全防护",
+									"price":"39"
+								},
+								{
+									"imgsrc":"./data/img/k2.jpg",
+									"title":"魅族移动电源3",
+									"logo":"",
+									"txt":"双向快充双充电口 轻薄小巧",
+									"price":"79"
+								},
+								{
+									"imgsrc":"./data/img/k3.jpg",
+									"title":"魅族 Micro USB 数据线",
+									"logo":"",
+									"txt":"广泛兼容 经久耐用",
+									"price":"9.9"
+								},
+								{
+									"imgsrc":"./data/img/k4.jpg",
+									"title":"魅族 Type-C 金属数据线",
+									"logo":"特惠",
+									"txt":"支持2A快速充电 耐用又放心",
+									"price":"39"
+								},
+								{
+									"imgsrc":"./data/img/k5.jpg",
+									"title":"魅族 Micro USB 金属数据线",
+									"logo":"",
+									"txt":"耐用 才好用",
+									"price":"99"
+								},
+								{
+									"imgsrc":"./data/img/k6.jpg",
+									"title":"快充电源适配器（UP0830S）",
+									"logo":"",
+									"txt":"【限时特惠】快速充电 安全无忧",
+									"price":"169"
+								},
+								{
+									"imgsrc":"./data/img/k1.jpg",
+									"title":"魅族 16s Pro 亲肤壳膜套装",
+									"logo":"",
+									"txt":"亲近肌肤，安全防护",
+									"price":"39"
+								},
+								{
+									"imgsrc":"./data/img/k2.jpg",
+									"title":"魅族移动电源3",
+									"logo":"",
+									"txt":"双向快充双充电口 轻薄小巧",
+									"price":"79"
+								},
+								{
+									"imgsrc":"./data/img/k3.jpg",
+									"title":"魅族 Micro USB 数据线",
+									"logo":"",
+									"txt":"广泛兼容 经久耐用",
+									"price":"9.9"
+								},
+								{
+									"imgsrc":"./data/img/k4.jpg",
+									"title":"魅族 Type-C 金属数据线",
+									"logo":"特惠",
+									"txt":"支持2A快速充电 耐用又放心",
+									"price":"39"
+								},
+								{
+									"imgsrc":"./data/img/k5.jpg",
+									"title":"魅族 Micro USB 金属数据线",
+									"logo":"",
+									"txt":"耐用 才好用",
+									"price":"99"
+								},
+								{
+									"imgsrc":"./data/img/k6.jpg",
+									"title":"快充电源适配器（UP0830S）",
+									"logo":"",
+									"txt":"【限时特惠】快速充电 安全无忧",
+									"price":"169"
+								}
+							]
+						},
+						{
+							"imgsrc":"./data/img/foo1.jpg"
+						}
+					
+					]
+				},
+				{
+					"con":"生活",
+					"id":4,
+					"htl":[
+						{
+							"imgsrc":"./data/img/w1.jpg"
+						},
+						{
+							"arrs":[
+								{
+									"imgsrc":"./data/img/e1.jpg",
+									"title":"魅族 16s Pro 亲肤壳膜套装",
+									"logo":"",
+									"txt":"亲近肌肤，安全防护",
+									"price":"39"
+								},
+								{
+									"imgsrc":"./data/img/e2.jpg",
+									"title":"魅族移动电源3",
+									"logo":"",
+									"txt":"双向快充双充电口 轻薄小巧",
+									"price":"79"
+								},
+								{
+									"imgsrc":"./data/img/e3.jpg",
+									"title":"魅族 Micro USB 数据线",
+									"logo":"",
+									"txt":"广泛兼容 经久耐用",
+									"price":"9.9"
+								},
+								{
+									"imgsrc":"./data/img/e4.jpg",
+									"title":"魅族 Type-C 金属数据线",
+									"logo":"特惠",
+									"txt":"支持2A快速充电 耐用又放心",
+									"price":"39"
+								},
+								{
+									"imgsrc":"./data/img/e5.jpg",
+									"title":"魅族 Micro USB 金属数据线",
+									"logo":"",
+									"txt":"耐用 才好用",
+									"price":"99"
+								},
+								{
+									"imgsrc":"./data/img/e6.jpg",
+									"title":"快充电源适配器（UP0830S）",
+									"logo":"",
+									"txt":"【限时特惠】快速充电 安全无忧",
+									"price":"169"
+								},
+								{
+									"imgsrc":"./data/img/e1.jpg",
+									"title":"魅族 16s Pro 亲肤壳膜套装",
+									"logo":"",
+									"txt":"亲近肌肤，安全防护",
+									"price":"39"
+								},
+								{
+									"imgsrc":"./data/img/e2.jpg",
+									"title":"魅族移动电源3",
+									"logo":"",
+									"txt":"双向快充双充电口 轻薄小巧",
+									"price":"79"
+								},
+								{
+									"imgsrc":"./data/img/e3.jpg",
+									"title":"魅族 Micro USB 数据线",
+									"logo":"",
+									"txt":"广泛兼容 经久耐用",
+									"price":"9.9"
+								},
+								{
+									"imgsrc":"./data/img/e4.jpg",
+									"title":"魅族 Type-C 金属数据线",
+									"logo":"特惠",
+									"txt":"支持2A快速充电 耐用又放心",
+									"price":"39"
+								},
+								{
+									"imgsrc":"./data/img/e5.jpg",
+									"title":"魅族 Micro USB 金属数据线",
+									"logo":"",
+									"txt":"耐用 才好用",
+									"price":"99"
+								},
+								{
+									"imgsrc":"./data/img/e6.jpg",
+									"title":"快充电源适配器（UP0830S）",
+									"logo":"",
+									"txt":"【限时特惠】快速充电 安全无忧",
+									"price":"169"
+								}
+							]
+				}
+				]
+			}	
+			],						
+			
+			"tj":[
+					{
+						"imgsrc":"./data/img/tj1.jpg",
+						"title":"魅族 16s",
+						"price":"2699"
+					},
+					{
+						"imgsrc":"./data/img/tj2.jpg",
+						"title":"魅族 POP2 真无线蓝牙耳机",
+						"price":"369"
+					},
+					{
+						"imgsrc":"./data/img/tj3.jpg",
+						"title":"魅族 16 X",
+						"price":"1598"
+					},
+					{
+						"imgsrc":"./data/img/tj4.jpg",
+						"title":"魅族 EP63NC 无限降噪耳机",
+						"price":"409"
+					},
+					{
+						"imgsrc":"./data/img/tj5.jpg",
+						"title":"魅族 X8",
+						"price":"1298"
+					},
+					{
+						"imgsrc":"./data/img/tj6.jpg",
+						"title":"魅族 Note9",
+						"price":"1398"
+					},
+					{
+						"imgsrc":"./data/img/tj7.jpg",
+						"title":"魅族移动电源3",
+						"price":"79"
+					},
+					{
+						"imgsrc":"./data/img/tj8.jpg",
+						"title":"魅族 Note8",
+						"price":"999"
+					},
+					{
+						"imgsrc":"./data/img/tj9.jpg",
+						"title":"魅族 EP2X 耳机",
+						"price":"69"
+					}
+					
+					
+				]
+				
+
+
+							
+}
